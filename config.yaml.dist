@@ -1,0 +1,8 @@
+slack_token: "xoxb-blah-blah"
+admins:
+  - "someId"
+greetings:
+  - "hi"
+  - "hello"
+  - "sup"
+  - "hey"
